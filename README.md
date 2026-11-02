@@ -501,6 +501,7 @@ Curated for engineers, architects, founders, and creators who prioritize signal 
 - [Startup Buffer](https://startupbuffer.com/)
 - [MicroStartups](https://www.microstartups.co/)
 - [TechPluto](https://www.techpluto.com/submit-a-startup)
+- [SitePatent](https://sitepatent.com/) - Directory of startups, tools and online products, organized by category and tech stack.
 - [KillerStartups](http://www.killerstartups.com/)
 - [Gust](https://gust.com/)
 - [GeekWire Submit Startup](https://www.geekwire.com/submit-startup)
