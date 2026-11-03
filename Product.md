@@ -68,6 +68,14 @@ A curated directory of tools, platforms, and products built by founders, makers,
 <td>Freemium</td>
 <td><a href="https://cursor.com">cursor.com</a></td>
 </tr>
+<tr>
+<td>MEDIAPRONET</td>
+<td>Startup Directory</td>
+<td>Curated directory where founders list newly launched startups, SaaS tools and indie products.</td>
+<td>Founders & Makers</td>
+<td>Freemium</td>
+<td><a href="https://mediapronet.com">mediapronet.com</a></td>
+</tr>
 </tbody>
 </table>
 
